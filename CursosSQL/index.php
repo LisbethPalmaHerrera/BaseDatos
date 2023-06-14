@@ -4,7 +4,7 @@
         <title>Proyecto Bjob</title>
         <meta name="Bjob" content="width=device-width, initial-scale=1.0" />
         <link rel="stylesheet" href="/CursosSQL/style.css" type="text/css">
-        <script type="text/javascript" src="/index.js"></script>
+        <--!<script type="text/javascript" src="/index.js"></script>-->
     </head>
     <body>
             
